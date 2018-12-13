@@ -1,0 +1,19 @@
+{
+  "name": "oghenemarho",
+  "version": "0.1.0",
+  "description": "Palindrome detector",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "palindrome",
+    "learn-enough",
+    "javascript"
+  ],
+  "author": "Oghenemarho",
+  "license": "ISC",
+  "directories": {
+    "test": "test"
+  }
+}
